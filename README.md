@@ -1,1 +1,1 @@
-# Data-Science-project @ YBI Foundation
+# Machine-Learning-project @ YBI Foundation
